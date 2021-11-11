@@ -8,7 +8,7 @@ public class JavaIfElse {
         int [] arrayInt = IntStream.concat(IntStream.range(2,6), IntStream.range(21,101)).toArray();
         boolean isNEven = N % 2 == 0;
         boolean notWeird = isNEven && Arrays.stream(arrayInt).anyMatch(i -> (i==N));
-        System.out.println(notWeird ? "Not Weider" : "Weider");
+        System.out.println(notWeird ? "Not Weird" : "Weird");
     }
 }
 
