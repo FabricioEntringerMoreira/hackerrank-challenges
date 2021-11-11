@@ -14,7 +14,7 @@ public class LoopsII {
             structs[i] = new Struct();
             structs[i].a = in.nextInt();
             structs[i].b = in.nextInt();
-            structs[i].n = in.nextInt();;
+            structs[i].n = in.nextInt();
         }
         in.close();
         for (Struct struct : structs) {
