@@ -3,7 +3,7 @@ import challenges.*;
 import java.io.IOException;
 
 public class Main {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args){
 //        new JavaIfElse().execute(1);
 //        new JavaIfElse().execute(2);
 //        new JavaIfElse().execute(24);
@@ -14,6 +14,7 @@ public class Main {
 //        new OutputFormatting().execute();
         //new LoopsI().execute();
         //new LoopsII().execute();
-        new JavaDataTypes().execute();
+        //new JavaDataTypes().execute();
+        new EndOfFile().execute();
     }
 }

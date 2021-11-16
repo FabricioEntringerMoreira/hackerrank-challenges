@@ -3,7 +3,7 @@ package challenges;
 import java.math.BigInteger;
 import java.util.Scanner;
 
-// https://www.hackerrank.com/challenges/java-datatypes
+// https://www.hackerrank.com/challenges/java-datatypes/problem
 public class JavaDataTypes {
     public void execute(){
         Scanner sc = new Scanner(System.in);
