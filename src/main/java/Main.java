@@ -13,6 +13,7 @@ public class Main {
 //        new StdInStdOut().execute();
 //        new OutputFormatting().execute();
         //new LoopsI().execute();
-        new LoopsII().execute();
+        //new LoopsII().execute();
+        new JavaDataTypes().execute();
     }
 }
